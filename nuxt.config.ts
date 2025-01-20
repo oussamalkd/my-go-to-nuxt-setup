@@ -2,7 +2,6 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: [
-    "@nuxtjs/i18n",
     "@nuxtjs/tailwindcss",
     "@nuxt/eslint",
     "@nuxt/test-utils/module",
