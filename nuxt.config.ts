@@ -11,22 +11,4 @@ export default defineNuxtConfig({
     "@nuxtjs/sitemap",
     "nuxt-og-image",
   ],
-
-  i18n: {
-    lazy: true,
-    langDir: "./lang/",
-    defaultLocale: "en",
-    locales: [
-      {
-        code: "en",
-        file: "en/index.json",
-        name: "english",
-      },
-      {
-        code: "ar",
-        file: "ar/index.json",
-        name: "arabic",
-      },
-    ],
-  },
 });
