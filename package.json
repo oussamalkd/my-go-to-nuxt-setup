@@ -27,7 +27,7 @@
     "playwright-core": "^1.49.1",
     "pug": "^3.0.3",
     "typescript": "^5.7.3",
-    "vitest": "^3.0.2",
+    "vitest": "^3.0.5",
     "vue": "latest"
   }
 }
