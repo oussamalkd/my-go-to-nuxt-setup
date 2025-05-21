@@ -8,5 +8,5 @@ const props = defineProps({
 </script>
 
 <template lang="pug">
-button.main-button.bg-yellow-400 {{ label}}
+button.main-button.bg-yellow-400 {{ label }}
 </template>
